@@ -1,0 +1,15 @@
+Human
+Halfling
+Dwarf
+Gnome
+Wood Elf
+High Elf
+Dark Elf
+Merfolk
+Goblin
+Hobgoblin
+Orc
+Troll
+Ogre
+Cyclops
+Lizardfolk
