@@ -77,5 +77,7 @@ public class TheGame
             System.err.println("Simulation, error: problem reading from console.");
             System.exit(-1);
         }
+        
+        System.exit(0);
     }
 }
