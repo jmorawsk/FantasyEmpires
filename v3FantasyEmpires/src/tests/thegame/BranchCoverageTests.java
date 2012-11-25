@@ -212,7 +212,7 @@ public class BranchCoverageTests {
 		//Exited with expected status.
 		assertEquals(new Integer(42), exitStatus); 
 		
-		assertEquals("Summer of year 0", outStream.output.pop());
+		assertEquals("Spring of year 0", outStream.output.pop());
 		
 		//Set reset everything to it's default.
 		System.setIn(systemin);
@@ -319,8 +319,8 @@ public class BranchCoverageTests {
 		//Exited with expected status.
 		assertEquals(new Integer(42), exitStatus); 
 		
-		assertEquals("Autumn of year 0", outStream.output.pop());
 		assertEquals("Summer of year 0", outStream.output.pop());
+		assertEquals("Spring of year 0", outStream.output.pop());
 		
 		//Set reset everything to it's default.
 		System.setIn(systemin);

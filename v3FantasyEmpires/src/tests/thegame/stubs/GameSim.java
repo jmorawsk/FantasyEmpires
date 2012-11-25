@@ -9,7 +9,7 @@ public class GameSim extends code.GameSim {
 	public GameSim(code.World world) {
 		turnNum = 0;
 		seasons = new String[] {
-				"Summer", "Autumn", "Spring", "Winter"
+				"Spring", "Summer", "Autumn", "Winter"
 		};
 	}
 	
