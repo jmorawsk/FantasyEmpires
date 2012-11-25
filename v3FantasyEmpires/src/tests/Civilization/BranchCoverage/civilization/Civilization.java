@@ -1,3 +1,4 @@
+package code.civilization;
 import java.util.ArrayList;
 import java.util.Iterator;
 
@@ -79,7 +80,7 @@ public class Civilization
     }
  
     public void PlayerAct(ArrayList<Civilization> allCivs)
-    {
+    { 
         System.out.println("Your turn. Select an action");
         System.out.println("1: Check my team.");
         System.out.println("2: Attack another team.");
